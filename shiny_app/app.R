@@ -1,7 +1,3 @@
-#install.packages('dygraph')
-#install.packages("readxl")
-#install.packages("ggplot2")
-#install.packages("tidyr")
 
 
 library(shiny)
