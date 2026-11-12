@@ -1,0 +1,372 @@
+Year,Country,stress
+2000,Antigua and Barbuda,2.634615385
+2000,Barbados,101.25
+2000,Belize,0.107239082
+2000,Cuba,18.01592825
+2000,Dominica,8.3
+2000,Dominican Republic,26.96187098
+2000,Guyana,3.744292237
+2000,Haiti,12.40235766
+2000,Jamaica,9.617861743
+2000,Puerto Rico,19.12033936
+2000,Saint Vincent and the Grenadines,9.75
+2000,Suriname,4.297626684
+2000,Trinidad and Tobago,19.58827074
+2001,Antigua and Barbuda,2.788461539
+2001,Barbados,101.25
+2001,Belize,0.117683566
+2001,Cuba,18.03198161
+2001,Dominica,8.3
+2001,Dominican Republic,27.61139437
+2001,Guyana,3.709223744
+2001,Haiti,12.51140589
+2001,Jamaica,9.767597328
+2001,Puerto Rico,19.75440947
+2001,Saint Kitts and Nevis,23.95833333
+2001,Saint Vincent and the Grenadines,9.7
+2001,Suriname,4.239790464
+2001,Trinidad and Tobago,18.56650568
+2002,Antigua and Barbuda,2.942307692
+2002,Barbados,101.25
+2002,Belize,0.13926118
+2002,Cuba,18.04872308
+2002,Dominica,8.3
+2002,Dominican Republic,28.26091776
+2002,Guyana,3.674155251
+2002,Haiti,12.62045413
+2002,Jamaica,9.917332913
+2002,Puerto Rico,20.38847957
+2002,Saint Kitts and Nevis,23.54166667
+2002,Saint Vincent and the Grenadines,9.65
+2002,Suriname,4.181954244
+2002,Trinidad and Tobago,19.86275689
+2003,Antigua and Barbuda,3.916666667
+2003,Barbados,101.25
+2003,Belize,0.133324844
+2003,Cuba,18.06546455
+2003,Dominica,8.3
+2003,Dominican Republic,28.91044114
+2003,Guyana,3.639086758
+2003,Haiti,12.72950236
+2003,Jamaica,10.0670685
+2003,Puerto Rico,21.02254968
+2003,Saint Kitts and Nevis,24.27083333
+2003,Saint Vincent and the Grenadines,9.6
+2003,Suriname,4.124118024
+2003,Trinidad and Tobago,17.81983059
+2004,Antigua and Barbuda,4.653846154
+2004,Barbados,101.25
+2004,Belize,0.132143748
+2004,Cuba,18.37261311
+2004,Dominica,8.3
+2004,Dominican Republic,29.55996453
+2004,Guyana,0.159957712
+2004,Haiti,12.8385506
+2004,Jamaica,10.21680408
+2004,Puerto Rico,21.65661978
+2004,Saint Kitts and Nevis,25.75972222
+2004,Saint Vincent and the Grenadines,9.55
+2004,Suriname,4.066281805
+2004,Trinidad and Tobago,19.47702503
+2005,Antigua and Barbuda,5.865384615
+2005,Barbados,87.5
+2005,Belize,0.126562204
+2005,Cuba,13.1188715
+2005,Dominica,8.583333333
+2005,Dominican Republic,30.20948792
+2005,Grenada,5
+2005,Guyana,3.568949772
+2005,Haiti,12.94759883
+2005,Jamaica,10.36653967
+2005,Puerto Rico,22.29068989
+2005,Saint Kitts and Nevis,25.24861111
+2005,Saint Vincent and the Grenadines,9.5
+2005,Suriname,4.008445585
+2005,Trinidad and Tobago,20.87243017
+2006,Antigua and Barbuda,5.730769231
+2006,Barbados,87.5
+2006,Belize,0.122017719
+2006,Cuba,18.58248753
+2006,Dominica,8.866666667
+2006,Dominican Republic,32.07825316
+2006,Grenada,5.227777778
+2006,Guyana,0.22909403
+2006,Haiti,13.05664706
+2006,Jamaica,10.51627525
+2006,Puerto Rico,22.37374414
+2006,Saint Kitts and Nevis,28.7375
+2006,Saint Vincent and the Grenadines,9.3
+2006,Suriname,3.950609365
+2006,Trinidad and Tobago,20.89842781
+2007,Antigua and Barbuda,6.352564103
+2007,Barbados,87.5
+2007,Belize,0.127888695
+2007,Cuba,18.72699123
+2007,Dominica,9.15
+2007,Dominican Republic,33.9470184
+2007,Grenada,5.455555556
+2007,Guyana,0.249975039
+2007,Haiti,13.1656953
+2007,Jamaica,10.66601084
+2007,Puerto Rico,22.45679839
+2007,Saint Kitts and Nevis,25.37083333
+2007,Saint Lucia,14.3
+2007,Saint Vincent and the Grenadines,9.1
+2007,Suriname,3.950609365
+2007,Trinidad and Tobago,20.81136645
+2008,Antigua and Barbuda,6.974358974
+2008,Barbados,87.5
+2008,Belize,0.123565011
+2008,Cuba,22.29829692
+2008,Dominica,9.433333333
+2008,Dominican Republic,35.81578364
+2008,Grenada,5.683333333
+2008,Guyana,0.267749683
+2008,Haiti,13.27474353
+2008,Jamaica,10.81574642
+2008,Puerto Rico,22.53583389
+2008,Saint Kitts and Nevis,27.40833333
+2008,Saint Lucia,14.3
+2008,Saint Vincent and the Grenadines,8.9
+2008,Suriname,3.950609365
+2008,Trinidad and Tobago,21.16989129
+2009,Antigua and Barbuda,7.596153846
+2009,Barbados,87.5
+2009,Belize,0.117816321
+2009,Cuba,23.43712369
+2009,Dominica,9.716666667
+2009,Dominican Republic,37.68454888
+2009,Grenada,5.911111111
+2009,Guyana,0.249310272
+2009,Haiti,13.38379177
+2009,Jamaica,10.96548201
+2009,Puerto Rico,22.6229069
+2009,Saint Kitts and Nevis,29.44583333
+2009,Saint Lucia,14.3
+2009,Saint Vincent and the Grenadines,8.7
+2009,Suriname,3.950609365
+2009,Trinidad and Tobago,20.04836759
+2010,Antigua and Barbuda,7.288461539
+2010,Barbados,87.5
+2010,Belize,0.118295483
+2010,Cuba,23.05178049
+2010,Dominica,10
+2010,Dominican Republic,39.55331412
+2010,Grenada,6.138888889
+2010,Guyana,3.298401827
+2010,Haiti,13.38379177
+2010,Jamaica,11.11521759
+2010,Puerto Rico,22.70596115
+2010,Saint Kitts and Nevis,30.21458333
+2010,Saint Lucia,14.3
+2010,Saint Vincent and the Grenadines,8.5
+2010,Suriname,3.950609365
+2010,Trinidad and Tobago,18.22249093
+2011,Antigua and Barbuda,7.230769231
+2011,Barbados,87.5
+2011,Belize,0.120233342
+2011,Cuba,22.54601755
+2011,Dominica,10
+2011,Dominican Republic,39.55331412
+2011,Grenada,6.366666667
+2011,Guyana,3.298401827
+2011,Haiti,13.38379177
+2011,Jamaica,11.91675136
+2011,Puerto Rico,22.06653271
+2011,Saint Kitts and Nevis,33.81666667
+2011,Saint Lucia,14.3
+2011,Saint Vincent and the Grenadines,8.3
+2011,Suriname,3.950609365
+2011,Trinidad and Tobago,20.32648126
+2012,Antigua and Barbuda,8.461538461
+2012,Barbados,87.5
+2012,Belize,0.123239331
+2012,Cuba,26.05883365
+2012,Dominica,10
+2012,Dominican Republic,39.55331412
+2012,Grenada,6.594444444
+2012,Guyana,0.308219178
+2012,Haiti,13.38379177
+2012,Jamaica,12.71828513
+2012,Puerto Rico,21.43782094
+2012,Saint Kitts and Nevis,31.9625
+2012,Saint Lucia,14.3
+2012,Saint Vincent and the Grenadines,8.1
+2012,Suriname,3.950609365
+2012,Trinidad and Tobago,20.7496977
+2013,Antigua and Barbuda,5.269230769
+2013,Barbados,87.5
+2013,Belize,0.123239331
+2013,Cuba,23.93944607
+2013,Dominica,10
+2013,Dominican Republic,39.55331412
+2013,Grenada,6.822222222
+2013,Guyana,0.308219178
+2013,Haiti,13.38379177
+2013,Jamaica,13.5198189
+2013,Puerto Rico,20.80375084
+2013,Saint Kitts and Nevis,31.9625
+2013,Saint Lucia,14.3
+2013,Saint Vincent and the Grenadines,7.9
+2013,Suriname,3.950609365
+2013,Trinidad and Tobago,21.17291415
+2014,Antigua and Barbuda,4.926282051
+2014,Barbados,87.5
+2014,Belize,0.123239331
+2014,Cuba,27.60708756
+2014,Dominica,10
+2014,Dominican Republic,39.55331412
+2014,Grenada,7.05
+2014,Guyana,0.308219178
+2014,Haiti,13.38379177
+2014,Jamaica,14.32135268
+2014,Puerto Rico,20.16968073
+2014,Saint Kitts and Nevis,31.9625
+2014,Saint Lucia,14.3
+2014,Saint Vincent and the Grenadines,7.9
+2014,Suriname,3.950609365
+2014,Trinidad and Tobago,19.37726723
+2015,Antigua and Barbuda,4.717948718
+2015,Barbados,87.5
+2015,Belize,0.123239331
+2015,Cuba,20.77068639
+2015,Dominica,10
+2015,Dominican Republic,39.55331412
+2015,Grenada,7.05
+2015,Guyana,0.308219178
+2015,Haiti,13.38379177
+2015,Jamaica,7.668853368
+2015,Puerto Rico,19.53561063
+2015,Saint Kitts and Nevis,31.9625
+2015,Saint Lucia,14.3
+2015,Saint Vincent and the Grenadines,7.9
+2015,Suriname,3.950609365
+2015,Trinidad and Tobago,18.8573156
+2016,Antigua and Barbuda,4.514423077
+2016,Barbados,87.5
+2016,Belize,0.123239331
+2016,Cuba,20.60553931
+2016,Dominica,10
+2016,Dominican Republic,39.55331412
+2016,Grenada,7.05
+2016,Guyana,0.308219178
+2016,Haiti,13.38379177
+2016,Jamaica,12.4734362
+2016,Puerto Rico,19.53561063
+2016,Saint Kitts and Nevis,31.9625
+2016,Saint Lucia,14.3
+2016,Saint Vincent and the Grenadines,7.9
+2016,Suriname,3.950609365
+2016,Trinidad and Tobago,20.50181379
+2017,Antigua and Barbuda,4.310897436
+2017,Barbados,87.5
+2017,Belize,0.123239331
+2017,Cuba,22.91759849
+2017,Dominica,10
+2017,Dominican Republic,39.55331412
+2017,Grenada,7.05
+2017,Guyana,0.308219178
+2017,Haiti,13.38379177
+2017,Jamaica,12.34396002
+2017,Puerto Rico,19.53561063
+2017,Saint Kitts and Nevis,31.9625
+2017,Saint Lucia,14.3
+2017,Saint Vincent and the Grenadines,7.9
+2017,Suriname,3.950609365
+2017,Trinidad and Tobago,20.39832726
+2018,Antigua and Barbuda,4.554945055
+2018,Barbados,87.5
+2018,Belize,0.123239331
+2018,Cuba,25.40512644
+2018,Dominica,10
+2018,Dominican Republic,39.55331412
+2018,Grenada,7.05
+2018,Guyana,0.308219178
+2018,Haiti,13.38379177
+2018,Jamaica,12.21448383
+2018,Puerto Rico,19.53561063
+2018,Saint Kitts and Nevis,31.9625
+2018,Saint Lucia,14.3
+2018,Saint Vincent and the Grenadines,7.9
+2018,Suriname,3.950609365
+2018,Trinidad and Tobago,20.29484073
+2019,Antigua and Barbuda,3.903846154
+2019,Barbados,87.5
+2019,Belize,0.123239331
+2019,Cuba,24.34543265
+2019,Dominica,10
+2019,Dominican Republic,39.55331412
+2019,Grenada,7.05
+2019,Guyana,0.308219178
+2019,Haiti,13.38379177
+2019,Jamaica,12.08500765
+2019,Puerto Rico,19.53561063
+2019,Saint Kitts and Nevis,31.9625
+2019,Saint Lucia,14.3
+2019,Saint Vincent and the Grenadines,7.9
+2019,Suriname,3.950609365
+2019,Trinidad and Tobago,20.1913542
+2020,Antigua and Barbuda,2.826923077
+2020,Barbados,87.5
+2020,Belize,0.123239331
+2020,Cuba,22.94168244
+2020,Dominica,10
+2020,Dominican Republic,39.55331412
+2020,Grenada,7.05
+2020,Guyana,0.308219178
+2020,Haiti,13.38379177
+2020,Jamaica,11.04643079
+2020,Puerto Rico,19.53561063
+2020,Saint Kitts and Nevis,31.9625
+2020,Saint Lucia,14.3
+2020,Saint Vincent and the Grenadines,7.9
+2020,Suriname,3.950609365
+2020,Trinidad and Tobago,20.08786767
+2021,Antigua and Barbuda,3.153846154
+2021,Barbados,87.5
+2021,Belize,0.123239331
+2021,Cuba,22.17099604
+2021,Dominica,10
+2021,Dominican Republic,39.55331412
+2021,Grenada,7.05
+2021,Guyana,0.308219178
+2021,Haiti,13.38379177
+2021,Jamaica,12.38281888
+2021,Puerto Rico,19.53561063
+2021,Saint Kitts and Nevis,31.9625
+2021,Saint Lucia,14.3
+2021,Saint Vincent and the Grenadines,7.9
+2021,Suriname,3.950609365
+2021,Trinidad and Tobago,19.98438115
+2022,Antigua and Barbuda,3.153846154
+2022,Barbados,87.5
+2022,Belize,0.123239331
+2022,Cuba,22.17099604
+2022,Dominica,10
+2022,Dominican Republic,39.55331412
+2022,Grenada,7.05
+2022,Guyana,0.308219178
+2022,Haiti,13.38379177
+2022,Jamaica,12.38281888
+2022,Puerto Rico,19.53561063
+2022,Saint Kitts and Nevis,31.9625
+2022,Saint Lucia,14.3
+2022,Saint Vincent and the Grenadines,7.9
+2022,Suriname,3.950609365
+2022,Trinidad and Tobago,19.88089462
+2023,Antigua and Barbuda,3.153846154
+2023,Barbados,87.5
+2023,Belize,0.123239331
+2023,Cuba,22.17099604
+2023,Dominica,10
+2023,Dominican Republic,39.55331412
+2023,Grenada,7.05
+2023,Guyana,0.308219178
+2023,Haiti,13.38379177
+2023,Jamaica,12.38281888
+2023,Puerto Rico,19.53561063
+2023,Saint Kitts and Nevis,31.9625
+2023,Saint Lucia,14.3
+2023,Saint Vincent and the Grenadines,7.9
+2023,Suriname,3.950609365
+2023,Trinidad and Tobago,19.88089462

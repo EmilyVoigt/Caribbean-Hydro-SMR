@@ -1,0 +1,562 @@
+Year,Country,access
+1990,Antigua and Barbuda,97.4
+1990,Barbados,96.1
+1990,Belize,72.9
+1990,Dominican Republic,87.3
+1990,Grenada,96.5
+1990,Guyana,79.2
+1990,Haiti,61.9
+1990,Jamaica,93.1
+1990,Puerto Rico,93.6
+1990,Saint Kitts and Nevis,98.3
+1990,Saint Lucia,92.5
+1990,Saint Vincent and the Grenadines,88.2
+1990,Trinidad and Tobago,91.6
+1991,Antigua and Barbuda,97.5
+1991,Barbados,96.3
+1991,Belize,74.1
+1991,Dominican Republic,87.2
+1991,Grenada,96.5
+1991,Guyana,79.2
+1991,Haiti,62.4
+1991,Jamaica,93.2
+1991,Puerto Rico,93.6
+1991,Saint Kitts and Nevis,98.3
+1991,Saint Lucia,92.7
+1991,Saint Vincent and the Grenadines,88.7
+1991,Trinidad and Tobago,91.8
+1992,Antigua and Barbuda,97.5
+1992,Barbados,96.4
+1992,Belize,75.3
+1992,Dominican Republic,87.1
+1992,Grenada,96.5
+1992,Guyana,80
+1992,Haiti,62.8
+1992,Jamaica,93.2
+1992,Puerto Rico,93.6
+1992,Saint Kitts and Nevis,98.3
+1992,Saint Lucia,92.9
+1992,Saint Vincent and the Grenadines,89.2
+1992,Trinidad and Tobago,91.9
+1993,Antigua and Barbuda,97.5
+1993,Bahamas,96.3
+1993,Barbados,96.6
+1993,Belize,76.5
+1993,Dominican Republic,87.1
+1993,Grenada,96.6
+1993,Guyana,80.7
+1993,Haiti,62.6
+1993,Jamaica,93.2
+1993,Puerto Rico,93.6
+1993,Saint Kitts and Nevis,98.3
+1993,Saint Lucia,93
+1993,Saint Vincent and the Grenadines,89.8
+1993,Trinidad and Tobago,92.1
+1994,Antigua and Barbuda,97.5
+1994,Bahamas,96.3
+1994,Barbados,96.7
+1994,Belize,77.8
+1994,Cuba,89.5
+1994,Dominican Republic,87
+1994,Grenada,96.6
+1994,Guyana,81.5
+1994,Haiti,62.4
+1994,Jamaica,93.3
+1994,Puerto Rico,93.6
+1994,Saint Kitts and Nevis,98.3
+1994,Saint Lucia,93.2
+1994,Saint Vincent and the Grenadines,90.3
+1994,Suriname,88.3
+1994,Trinidad and Tobago,92.3
+1995,Antigua and Barbuda,97.6
+1995,Bahamas,96.3
+1995,Barbados,96.9
+1995,Belize,79
+1995,Cuba,89.6
+1995,Dominica,94.5
+1995,Dominican Republic,87
+1995,Grenada,96.6
+1995,Guyana,82.3
+1995,Haiti,62.2
+1995,Jamaica,93.3
+1995,Puerto Rico,93.6
+1995,Saint Kitts and Nevis,98.3
+1995,Saint Lucia,93.4
+1995,Saint Vincent and the Grenadines,90.8
+1995,Suriname,88.3
+1995,Trinidad and Tobago,92.5
+1996,Antigua and Barbuda,97.6
+1996,Bahamas,96.3
+1996,Barbados,97
+1996,Belize,80.2
+1996,Cuba,89.7
+1996,Dominica,94.5
+1996,Dominican Republic,87
+1996,Grenada,96.6
+1996,Guyana,83.1
+1996,Haiti,61.9
+1996,Jamaica,93.3
+1996,Puerto Rico,93.6
+1996,Saint Kitts and Nevis,98.3
+1996,Saint Lucia,93.5
+1996,Saint Vincent and the Grenadines,91.3
+1996,Suriname,88.3
+1996,Trinidad and Tobago,92.6
+1997,Antigua and Barbuda,97.6
+1997,Bahamas,96.3
+1997,Barbados,97.2
+1997,Belize,81.4
+1997,Cuba,89.8
+1997,Dominica,94.5
+1997,Dominican Republic,87
+1997,Grenada,96.6
+1997,Guyana,83.9
+1997,Haiti,61.7
+1997,Jamaica,93.4
+1997,Puerto Rico,93.6
+1997,Saint Kitts and Nevis,98.3
+1997,Saint Lucia,93.7
+1997,Saint Vincent and the Grenadines,91.9
+1997,Suriname,88.4
+1997,Trinidad and Tobago,92.8
+1998,Bahamas,96.3
+1998,Barbados,97.3
+1998,Belize,82.7
+1998,Cuba,89.9
+1998,Dominica,94.5
+1998,Dominican Republic,87
+1998,Grenada,96.6
+1998,Guyana,84.7
+1998,Haiti,61.4
+1998,Jamaica,93.4
+1998,Puerto Rico,93.6
+1998,Saint Kitts and Nevis,98.3
+1998,Saint Lucia,93.9
+1998,Saint Vincent and the Grenadines,92.4
+1998,Suriname,88.4
+1998,Trinidad and Tobago,93
+1999,Antigua and Barbuda,97.7
+1999,Bahamas,96.4
+1999,Barbados,97.5
+1999,Belize,83.9
+1999,Cuba,90.2
+1999,Dominica,94.5
+1999,Dominican Republic,86.9
+1999,Grenada,96.6
+1999,Guyana,85.5
+1999,Haiti,61.1
+1999,Jamaica,93.4
+1999,Puerto Rico,93.6
+1999,Saint Kitts and Nevis,98.3
+1999,Saint Lucia,94.1
+1999,Saint Vincent and the Grenadines,92.9
+1999,Suriname,88.9
+1999,Trinidad and Tobago,93.1
+2000,Antigua and Barbuda,97.7
+2000,Bahamas,96.6
+2000,Barbados,97.6
+2000,Belize,85.1
+2000,Cuba,90.6
+2000,Dominica,94.5
+2000,Dominican Republic,86.8
+2000,Grenada,96.6
+2000,Guyana,86.2
+2000,Haiti,60.8
+2000,Jamaica,93.5
+2000,Puerto Rico,93.6
+2000,Saint Kitts and Nevis,98.3
+2000,Saint Lucia,94.2
+2000,Saint Vincent and the Grenadines,93.5
+2000,Suriname,89.3
+2000,Trinidad and Tobago,93.3
+2001,Antigua and Barbuda,97.7
+2001,Bahamas,96.7
+2001,Barbados,97.8
+2001,Belize,86.3
+2001,Cuba,90.9
+2001,Dominica,94.5
+2001,Dominican Republic,86.8
+2001,Grenada,96.6
+2001,Guyana,87
+2001,Haiti,60.8
+2001,Jamaica,93.5
+2001,Puerto Rico,93.6
+2001,Saint Kitts and Nevis,98.3
+2001,Saint Lucia,94.4
+2001,Saint Vincent and the Grenadines,94
+2001,Suriname,89.8
+2001,Trinidad and Tobago,93.5
+2002,Antigua and Barbuda,97.7
+2002,Bahamas,96.9
+2002,Barbados,97.9
+2002,Belize,87.5
+2002,Cuba,91.2
+2002,Dominica,94.4
+2002,Dominican Republic,86.7
+2002,Grenada,96.6
+2002,Guyana,87.8
+2002,Haiti,60.8
+2002,Jamaica,93.5
+2002,Puerto Rico,93.6
+2002,Saint Kitts and Nevis,98.3
+2002,Saint Lucia,94.5
+2002,Saint Vincent and the Grenadines,94.5
+2002,Suriname,90.3
+2002,Trinidad and Tobago,93.6
+2003,Antigua and Barbuda,97.8
+2003,Bahamas,97
+2003,Barbados,98.1
+2003,Belize,88.7
+2003,Cuba,91.5
+2003,Dominica,94.4
+2003,Dominican Republic,86.6
+2003,Grenada,96.6
+2003,Guyana,88.6
+2003,Haiti,60.8
+2003,Jamaica,93.6
+2003,Puerto Rico,93.6
+2003,Saint Kitts and Nevis,98.3
+2003,Saint Lucia,94.6
+2003,Saint Vincent and the Grenadines,95.1
+2003,Suriname,90.8
+2003,Trinidad and Tobago,93.8
+2004,Antigua and Barbuda,97.8
+2004,Bahamas,97.2
+2004,Barbados,98.2
+2004,Belize,89.9
+2004,Cuba,91.8
+2004,Dominica,94.4
+2004,Dominican Republic,86.6
+2004,Grenada,96.6
+2004,Guyana,89.4
+2004,Haiti,60.7
+2004,Jamaica,93.6
+2004,Puerto Rico,93.6
+2004,Saint Kitts and Nevis,98.3
+2004,Saint Lucia,94.8
+2004,Saint Vincent and the Grenadines,95.1
+2004,Suriname,91.2
+2004,Trinidad and Tobago,94
+2005,Antigua and Barbuda,97.8
+2005,Bahamas,97.3
+2005,Barbados,98.4
+2005,Belize,91.1
+2005,Cuba,92.1
+2005,Dominica,94.4
+2005,Dominican Republic,86.5
+2005,Grenada,96.6
+2005,Guyana,90.2
+2005,Haiti,60.6
+2005,Jamaica,93.6
+2005,Puerto Rico,93.6
+2005,Saint Kitts and Nevis,98.3
+2005,Saint Lucia,94.9
+2005,Saint Vincent and the Grenadines,95.1
+2005,Suriname,91.7
+2005,Trinidad and Tobago,94.1
+2006,Antigua and Barbuda,97.8
+2006,Bahamas,97.5
+2006,Barbados,98.5
+2006,Belize,92.3
+2006,Cuba,92.4
+2006,Dominica,94.4
+2006,Dominican Republic,86.4
+2006,Grenada,96.6
+2006,Guyana,91
+2006,Haiti,60.4
+2006,Jamaica,93.6
+2006,Puerto Rico,93.6
+2006,Saint Kitts and Nevis,98.3
+2006,Saint Lucia,95.1
+2006,Saint Vincent and the Grenadines,95.1
+2006,Suriname,92.1
+2006,Trinidad and Tobago,94.3
+2007,Antigua and Barbuda,97.9
+2007,Bahamas,97.6
+2007,Barbados,98.7
+2007,Belize,93.5
+2007,Cuba,92.7
+2007,Dominica,94.4
+2007,Dominican Republic,86.3
+2007,Grenada,96.6
+2007,Guyana,91.8
+2007,Haiti,60.2
+2007,Jamaica,93.7
+2007,Puerto Rico,93.6
+2007,Saint Kitts and Nevis,98.3
+2007,Saint Lucia,95.2
+2007,Saint Vincent and the Grenadines,95.1
+2007,Suriname,92.6
+2007,Trinidad and Tobago,94.5
+2008,Antigua and Barbuda,97.9
+2008,Bahamas,97.8
+2008,Barbados,98.8
+2008,Belize,94.7
+2008,Cuba,92.9
+2008,Dominica,94.4
+2008,Dominican Republic,86.2
+2008,Grenada,96.6
+2008,Guyana,92.6
+2008,Haiti,59.9
+2008,Jamaica,93.7
+2008,Puerto Rico,93.6
+2008,Saint Kitts and Nevis,98.3
+2008,Saint Lucia,95.3
+2008,Saint Vincent and the Grenadines,95.1
+2008,Suriname,93
+2008,Trinidad and Tobago,94.6
+2009,Antigua and Barbuda,97.9
+2009,Bahamas,97.9
+2009,Barbados,99
+2009,Belize,96
+2009,Cuba,93.2
+2009,Dominica,94.4
+2009,Dominican Republic,86
+2009,Grenada,96.6
+2009,Guyana,93.4
+2009,Haiti,59.6
+2009,Jamaica,93.7
+2009,Puerto Rico,93.6
+2009,Saint Kitts and Nevis,98.3
+2009,Saint Lucia,95.5
+2009,Saint Vincent and the Grenadines,95.1
+2009,Suriname,93.5
+2009,Trinidad and Tobago,94.8
+2010,Antigua and Barbuda,97.9
+2010,Bahamas,98.1
+2010,Barbados,99.1
+2010,Belize,97.2
+2010,Cuba,93.5
+2010,Dominica,94.4
+2010,Dominican Republic,85.9
+2010,Grenada,96.6
+2010,Guyana,94.2
+2010,Haiti,59.3
+2010,Jamaica,93.7
+2010,Puerto Rico,93.6
+2010,Saint Kitts and Nevis,98.3
+2010,Saint Lucia,95.6
+2010,Saint Vincent and the Grenadines,95.1
+2010,Suriname,93.9
+2010,Trinidad and Tobago,95
+2011,Antigua and Barbuda,97.9
+2011,Bahamas,98.2
+2011,Barbados,99.3
+2011,Belize,98.5
+2011,Cuba,93.8
+2011,Dominica,94.4
+2011,Dominican Republic,85.7
+2011,Grenada,96.6
+2011,Guyana,95.1
+2011,Haiti,58.9
+2011,Jamaica,93.8
+2011,Puerto Rico,93.6
+2011,Saint Kitts and Nevis,98.3
+2011,Saint Lucia,95.8
+2011,Saint Vincent and the Grenadines,95.1
+2011,Suriname,94.4
+2011,Trinidad and Tobago,95.1
+2012,Antigua and Barbuda,97.9
+2012,Bahamas,98.4
+2012,Barbados,99.4
+2012,Belize,99.3
+2012,Cuba,94.1
+2012,Dominica,94.4
+2012,Dominican Republic,85.4
+2012,Grenada,96.6
+2012,Guyana,95.9
+2012,Haiti,58.5
+2012,Jamaica,93.8
+2012,Puerto Rico,93.6
+2012,Saint Kitts and Nevis,98.3
+2012,Saint Lucia,96
+2012,Saint Vincent and the Grenadines,95.1
+2012,Suriname,94.8
+2012,Trinidad and Tobago,95.1
+2013,Antigua and Barbuda,97.9
+2013,Bahamas,98.4
+2013,Barbados,99.6
+2013,Belize,99.5
+2013,Cuba,94.3
+2013,Dominica,94.4
+2013,Dominican Republic,85.2
+2013,Grenada,96.6
+2013,Guyana,96.7
+2013,Haiti,58
+2013,Jamaica,93.8
+2013,Puerto Rico,93.6
+2013,Saint Kitts and Nevis,98.3
+2013,Saint Lucia,96.2
+2013,Saint Vincent and the Grenadines,95.1
+2013,Suriname,94.8
+2013,Trinidad and Tobago,95.1
+2014,Antigua and Barbuda,97.9
+2014,Bahamas,98.4
+2014,Barbados,99.7
+2014,Belize,99.5
+2014,Cuba,94.6
+2014,Dominica,94.4
+2014,Dominican Republic,85
+2014,Grenada,96.6
+2014,Guyana,97.5
+2014,Haiti,57.5
+2014,Jamaica,93.8
+2014,Puerto Rico,93.6
+2014,Saint Kitts and Nevis,98.3
+2014,Saint Lucia,96.3
+2014,Saint Vincent and the Grenadines,95.1
+2014,Suriname,94.8
+2014,Trinidad and Tobago,95.1
+2015,Antigua and Barbuda,97.9
+2015,Bahamas,98.4
+2015,Barbados,99.7
+2015,Belize,99.5
+2015,Cuba,94.9
+2015,Dominica,94.4
+2015,Dominican Republic,84.7
+2015,Grenada,96.6
+2015,Guyana,98.3
+2015,Haiti,57.7
+2015,Jamaica,93.8
+2015,Puerto Rico,93.6
+2015,Saint Kitts and Nevis,98.3
+2015,Saint Lucia,96.3
+2015,Saint Vincent and the Grenadines,95.1
+2015,Suriname,94.8
+2015,Trinidad and Tobago,95.1
+2016,Antigua and Barbuda,97.9
+2016,Bahamas,98.4
+2016,Barbados,99.7
+2016,Belize,99.5
+2016,Cuba,94.9
+2016,Dominica,94.4
+2016,Dominican Republic,84.7
+2016,Grenada,96.6
+2016,Guyana,98.3
+2016,Haiti,57.7
+2016,Jamaica,93.8
+2016,Puerto Rico,93.6
+2016,Saint Kitts and Nevis,98.3
+2016,Saint Lucia,96.3
+2016,Saint Vincent and the Grenadines,95.1
+2016,Suriname,94.8
+2016,Trinidad and Tobago,95.1
+2017,Antigua and Barbuda,97.9
+2017,Bahamas,98.4
+2017,Barbados,99.7
+2017,Belize,99.5
+2017,Cuba,94.9
+2017,Dominica,94.4
+2017,Dominican Republic,84.7
+2017,Grenada,96.6
+2017,Guyana,98.3
+2017,Haiti,57.7
+2017,Jamaica,93.8
+2017,Puerto Rico,93.6
+2017,Saint Kitts and Nevis,98.3
+2017,Saint Lucia,96.3
+2017,Saint Vincent and the Grenadines,95.1
+2017,Suriname,94.8
+2017,Trinidad and Tobago,95.1
+2018,Antigua and Barbuda,97.9
+2018,Bahamas,98.4
+2018,Barbados,99.7
+2018,Belize,99.5
+2018,Cuba,94.9
+2018,Dominica,94.4
+2018,Dominican Republic,84.7
+2018,Grenada,96.6
+2018,Guyana,98.3
+2018,Haiti,57.7
+2018,Jamaica,93.8
+2018,Puerto Rico,93.6
+2018,Saint Kitts and Nevis,98.3
+2018,Saint Lucia,96.3
+2018,Saint Vincent and the Grenadines,95.1
+2018,Suriname,94.8
+2018,Trinidad and Tobago,95.1
+2019,Antigua and Barbuda,97.9
+2019,Bahamas,98.4
+2019,Barbados,99.7
+2019,Belize,99.5
+2019,Cuba,94.9
+2019,Dominica,94.4
+2019,Dominican Republic,84.7
+2019,Grenada,96.6
+2019,Guyana,98.3
+2019,Haiti,57.7
+2019,Jamaica,93.8
+2019,Puerto Rico,93.6
+2019,Saint Kitts and Nevis,98.3
+2019,Saint Lucia,96.3
+2019,Saint Vincent and the Grenadines,95.1
+2019,Suriname,94.8
+2019,Trinidad and Tobago,95.1
+2020,Antigua and Barbuda,97.9
+2020,Bahamas,98.4
+2020,Barbados,99.7
+2020,Belize,99.5
+2020,Cuba,94.9
+2020,Dominica,94.4
+2020,Dominican Republic,84.7
+2020,Grenada,96.6
+2020,Guyana,98.3
+2020,Haiti,57.7
+2020,Jamaica,93.8
+2020,Puerto Rico,93.6
+2020,Saint Kitts and Nevis,98.3
+2020,Saint Lucia,96.3
+2020,Saint Vincent and the Grenadines,95.1
+2020,Suriname,94.8
+2020,Trinidad and Tobago,95.1
+2021,Antigua and Barbuda,97.9
+2021,Bahamas,98.4
+2021,Barbados,99.7
+2021,Belize,99.5
+2021,Cuba,94.9
+2021,Dominica,94.4
+2021,Dominican Republic,84.7
+2021,Grenada,96.6
+2021,Guyana,98.3
+2021,Haiti,57.7
+2021,Jamaica,93.8
+2021,Puerto Rico,93.6
+2021,Saint Kitts and Nevis,98.3
+2021,Saint Lucia,96.3
+2021,Saint Vincent and the Grenadines,95.1
+2021,Suriname,94.8
+2021,Trinidad and Tobago,95.1
+2022,Antigua and Barbuda,97.9
+2022,Bahamas,98.4
+2022,Barbados,99.7
+2022,Belize,99.5
+2022,Cuba,94.9
+2022,Dominica,94.4
+2022,Dominican Republic,84.7
+2022,Grenada,96.6
+2022,Guyana,98.3
+2022,Haiti,57.7
+2022,Jamaica,93.8
+2022,Puerto Rico,93.6
+2022,Saint Kitts and Nevis,98.3
+2022,Saint Lucia,96.3
+2022,Saint Vincent and the Grenadines,95.1
+2022,Suriname,94.8
+2022,Trinidad and Tobago,95.1
+2023,Antigua and Barbuda,97.9
+2023,Bahamas,98.4
+2023,Barbados,99.7
+2023,Belize,99.5
+2023,Cuba,94.9
+2023,Dominica,94.4
+2023,Dominican Republic,84.7
+2023,Grenada,96.6
+2023,Guyana,98.3
+2023,Haiti,57.7
+2023,Jamaica,93.8
+2023,Puerto Rico,93.6
+2023,Saint Kitts and Nevis,98.3
+2023,Saint Lucia,96.3
+2023,Saint Vincent and the Grenadines,95.1
+2023,Suriname,94.8
+2023,Trinidad and Tobago,95.1
